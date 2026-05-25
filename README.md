@@ -153,20 +153,6 @@ It is intended as:
 
 ---
 
-## Suggested Filename
-
-Recommended main file:
-
-    OmegaRiemannField.py
-
-Alternative names:
-
-    omega_riemann_superposition.py
-    recursive_riemann_field.py
-    omega_arithmetic_wavefield.py
-
----
-
 ## 🌌 Run
 
 ```bash
